@@ -1,0 +1,17 @@
+{
+    "appKeys": {},
+    "companyName": "cjessy",
+    "longName": "DemoStanford",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "DemoStanford",
+    "uuid": "7a2bd63f-789e-4768-a2df-c59e60b9c9d6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
